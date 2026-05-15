@@ -1,1 +1,0 @@
-# End-of-Day-Trading-Checklist
