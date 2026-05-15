@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "종가매매 체크리스트",
+  "short_name": "종가매매",
+  "description": "종가매매 점검과 기록을 위한 체크리스트",
+  "lang": "ko-KR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef3f8",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "./eod-cl-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./eod-cl-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
